@@ -1,0 +1,30 @@
+{
+  "name": "nsachat",
+  "version": "0.1.0",
+  "description": "distributed server-suspicious chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtudury/nsachat.git"
+  },
+  "keywords": [
+    "crypto",
+    "chat"
+  ],
+  "author": "david tudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/nsachat/issues"
+  },
+  "devDependencies": {
+    "terminal-chat": "~0.3.0"
+  },
+  "dependencies": {
+    "bigint16": "~0.1.0",
+    "BigInt": "~5.4.5",
+    "browserify": "~2.35.1"
+  }
+}
